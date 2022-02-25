@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning to the inhabitants of the earth But more especially to those who say they believe in the name of the Lord Jesus Christ, with al those that in the simplicity of their hearts, and tender desires towards God, are seeking the kingdom of heaven, (in several forms, and divers observations) with their faces thitherwards; the Lord has opened his bowels of love and tender compassion (through me) towards you all; and these are the words that are laid upon me to give forth, that in the name, fear, dread and power of the living God, they may be read amoungst you. He that can receive them let him.</title>
+            <author>Watkinson, George.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65257</idno>
+            <idno type="STC">Wing W1078</idno>
+            <idno type="STC">ESTC R217223</idno>
+            <idno type="EEBO-CITATION">99828918</idno>
+            <idno type="PROQUEST">99828918</idno>
+            <idno type="VID">33351</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33351)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1860:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning to the inhabitants of the earth But more especially to those who say they believe in the name of the Lord Jesus Christ, with al those that in the simplicity of their hearts, and tender desires towards God, are seeking the kingdom of heaven, (in several forms, and divers observations) with their faces thitherwards; the Lord has opened his bowels of love and tender compassion (through me) towards you all; and these are the words that are laid upon me to give forth, that in the name, fear, dread and power of the living God, they may be read amoungst you. He that can receive them let him.</title>
+                  <author>Watkinson, George.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Simmons,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated at end of text by Geo. Watkinson.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Early works to 1800.</term>
+               <term>Redemption --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:33351:1"/>
+            <head>A WARNING TO THE INHABITANT'S OF THE EARTH.</head>
+            <p>But more eſpecially to thoſe who ſay they be<g ref="char:EOLhyphen"/>lieve in the <hi>Name</hi>of the Lord Jeſus Chriſt, with al thoſe that in the ſimplicity of their hearts, and tender deſires towards God, are ſeeking the Kingdom of Heaven, (in <hi>ſeve<g ref="char:EOLhyphen"/>ral Forms,</hi> and divers <hi>Obſervations</hi>) with their faces thitherwards; The Lord has opened his bowels of Love and tender compaſſion (through me) towards you all; And theſe are the words that are laid upon me to give fo<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, that in the Name, Fear, Dread and Power of the Living God, they may be Read amongſt you.</p>
+            <p>He that can receive them let him.</p>
+            <p>
+               <hi>HEar, Fear, Dread,</hi> before the Living God, who hath laid it upon me, to warn you all, and all that in tenderneſſe make mention of
+<pb facs="tcp:33351:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:33351:3"/>his Name, To <hi>Haſt, haſt, haſt,</hi> out of Spiritual <hi>Sodom</hi> and <hi>Aegypt,</hi> to the City of the Living God, <hi>Chriſt Jeſus the Rock of Ages;</hi> For the <hi>Field</hi> is white unto Harveſt, and the Everlaſting God hath given a ſharp inſtrument <hi>(Power)</hi> into the Hand of his <hi>Angel,</hi> to cut down the <hi>Wheat</hi> and the Tares together; And the <hi>Wheat</hi> he is gathering into his <hi>Arms,</hi> into his <hi>Boſom,</hi> into the <hi>Power</hi> of his <hi>Love; <hi>But</hi>
+               </hi> the Tares he is bundeling up in bundles, <hi>Yea</hi> in great bundles (Mind that) and caſting them from him.</p>
+            <p>
+               <hi>He that hath an Ear let him hear what the Spirit ſaith.</hi>
+            </p>
+            <p>Again all people <hi>Prepare, prepare, prepare,</hi> for the day of <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Lord God is at hand, the Great and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>errible Day of the Lord is even as it were at the door, ready to enter in, wherein all Profeſſors of God, Chriſt, and the Scriptures of Truth muſt be tryed, whether they Wor<g ref="char:EOLhyphen"/>ſhip the Living God <hi>in Spirit,</hi> and <hi>in Truth</hi> Yea or Nay? <hi>For</hi> now the bare profeſ<g ref="char:EOLhyphen"/>ſion of his Name in words and outward
+<pb n="3" facs="tcp:33351:3"/>ſhew will no longer ſerve your turns; Not any thing in this day of Tryal will ſtand you in ſtead, but that which will ſtand in, and abide the Fire, <hi>Fire within and Fire without.</hi>
+            </p>
+            <p>
+               <hi>The Word of God was as a Fire in my Breaſt, till I was made willing to give forth this Paper: Yea when I refuſed to write, I was charged with Diſobedience.</hi>
+            </p>
+            <p>The People of God muſt be tryed as by <hi>Fire:</hi> And if <hi>Judgement</hi> begin at the <hi>Houſe of God,</hi> what will become of the Wicked, the Perſecutors, thoſe that make a mock at ſin, and of thoſe that for<g ref="char:EOLhyphen"/>get God?</p>
+            <p>
+               <hi>Wo</hi> is me, <hi>wo</hi> is me, Who is able to ſtand in this Day of Tryal? The very remembrance of it breaks me often into Tears, I am ready to Faint, <hi>Yea</hi> I am rea<g ref="char:EOLhyphen"/>dy to Faint, and but that my ſure hope is in the Living God, I might rather wiſh that I had never been Born, then live to ſee that Day; <hi>Alack, alack,</hi> I cannot abide that Day of Tryal, unleſs the <hi>Liv<g ref="char:EOLhyphen"/>ing</hi>
+               <pb n="4" facs="tcp:33351:4"/>(who doth ſtrengthen by his Love, and ſupport by his Power) <hi>God</hi> therein ſupport me.</p>
+            <p>
+               <hi>The</hi> remembrance of it is ſo terrible, that I am even ready to ſay (<hi>But</hi> that I believe it is the Lords pleaſure, that ſuch a Day ſhall come upon the Earth; not onely to try all Profeſſions and Pro<g ref="char:EOLhyphen"/>feſſors, and to cleanſe the Land of evil doers, but alſo to deliver his <hi>Seed</hi> out of Bondage, and his Lambs and Little Ones out of the Hands of their Oppreſſors) <hi>Lord <hi>if it be thy Will (let this Cup) or Day of Tryal paſs from me;</hi>
+               </hi> Oh the remem<g ref="char:EOLhyphen"/>brance of it melts my Heart often into Tears, often when I do it remember, I do exceedingly Fear and <hi>Tremble.</hi>
+            </p>
+            <p>What? Has not the Enemies of Gods Truth intents to deſtroy the Lambs, Children, and Servants of the moſt high God: Surely it was in their Hearts to de<g ref="char:EOLhyphen"/>ſtroy the Heir that the inheritance might be theirs; Therefore has the Lord laid it upon me to warn all Profeſſors, and people to meet him ſpeedily by repen<g ref="char:EOLhyphen"/>tance.</p>
+            <pb n="5" facs="tcp:33351:4"/>
+            <p> 
+               <hi>Oh turn, turn, turn,</hi> from the evil of your wayes, and repent and bring forth Fruit worthy of amendment of Life, the Lord my God deſires not the death of a ſinner, but rather that he ſhould turn from his wickedneſſe and live; <hi>Oh repent, repent, repent,</hi> whiles you have a day, for after death there is no repentance in the Grave.</p>
+            <p>
+               <hi>Again</hi> I ſay unto you, this is the Day of the Lords Power, wherein he is riſen and ariſing to plead with all men.</p>
+            <p>
+               <hi>Again</hi> I ſay unto you, this is the Day of the Lords Power wherein he is riſen and ariſing <hi>A Light</hi> in every man, and none from him (Chriſt Jeſus the Son of God, the Heir of his Fathers Kingdom) can ſhun, neither can they from him (the Light) hide themſelves, go where they will, He is preſent in all Places. This is the Condemnation that Light is come into the World, and men loved (and do love) Darkneſſe rather then
+<pb n="6" facs="tcp:33351:5"/>Light, becauſe their deeds were, and are, evil.</p>
+            <p>
+               <hi>Verily, verily, Again</hi> I ſay unto you, this is the Day wherein my God, the Omnipotent, Powerful, Wonder<g ref="char:EOLhyphen"/>ful, One, onely Wiſe God, is riſen and ariſing (more terrible then an <hi>Army with Banners;</hi> More valliant and ſtrong then a <hi>Gyant refreſhed with strong Wines;</hi> Yea more fierce then a <hi>She Bear</hi> bereav<g ref="char:EOLhyphen"/>ed of her Whelps, or any hungry Lyon that utters his voice after his Prey) who hath given Power to his beloved Son Chriſt Jeſus <hi>(The true Light that light<g ref="char:EOLhyphen"/>eth every man that cometh into the World) <hi>To Summon all men</hi>
+               </hi> (to the ends of the earth) to appear before him <hi>(The Light)</hi> and thoſe that will not that he (Chriſt Jeſus the True Light) ſhall rule over them, ſlain they muſt be by the Word of his <hi>Power: <hi>Great and terrible</hi>
+               </hi> will that day be, to all thoſe who will not ſubmit to Chriſt Jeſus the <hi>Light</hi> in them; I ſay unto you, this is the <hi>Higher
+<pb n="7" facs="tcp:33351:5"/>Power</hi> Chriſt Jeſus the True <hi>Light,</hi> to which every tongue muſt confeſs, and e<g ref="char:EOLhyphen"/>very knee muſt bow; <hi>All Power in Heaven and in Earth is given unto him;</hi> Who can his <hi>Power</hi> reſiſt?</p>
+            <closer>
+               <dateline>
+                  <date>Given forth in the Year 1661.</date>
+               </dateline> 
+               <signed>By me who Loves and Fears the living God, and is made to tremble at his Powerful Word. Known by Name, <hi>Geo. Watkinſon.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Simmons.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
